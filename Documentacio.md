@@ -60,4 +60,5 @@ git push -u origin main
 
 Autor
 Alfredo Mercado Leal – Alfre2106(GitHub)
+http://127.0.0.1:5000/personas(url del flask)
 
